@@ -1,6 +1,6 @@
 
 <a href="https://github.com/fanchenlex/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fanchenlex&show_icons=true&theme=merko&bg_color=gradient" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fanchenlex&show_icons=true&theme=merko&bg_color=45,add8e6,d8bfd8" />
 </a>
 <a href="https://github.com/fanchenlex/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fanchenlex&layout=compact&langs_count=8&card_width=320" />
