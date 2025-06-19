@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![fanchenlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanchenlex)](https://github.com/fanchenlex/github-readme-stats)
 <!--
 **fanchenlex/fanchenlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
