@@ -11,8 +11,9 @@
 <a href="https://github.com/fanchenlex/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fanchenlex&layout=compact&langs_count=8&card_width=320&bg_color=0,ff5f6d,ffc371,47e774,2bd6d0,3a8dde,aa61d3&title_color=000000&text_color=000000&icon_color=000000" />
 </a>
+
 📕Latest Blog Posts:
-- :smiley:[Personal introduction](https://fanchenlex.github.io/)| 📅 Data: 19/06/2025
+- :smiley:[https://fanchenlex.github.io/](#Personal introduction)| 📅 Data: 19/06/2025
 😄
 <!--
 **fanchenlex/fanchenlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
