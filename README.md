@@ -13,9 +13,10 @@
 </a>
 
 📕Latest Blog Posts:
+- 😃[Receving postgraduate addmission letter](https://fanchenlex.github.io/)| 📅 Data: 02/07/2025
+- 😃[Travel to Kansai, Japan](https://fanchenlex.github.io/)| 📅 Data: 01/07/2025
+- 😃[Memories from Xidian Graduation Ceremony](https://fanchenlex.github.io/)| 📅 Data: 20/06/2025
 - 😃[Personal introduction](https://fanchenlex.github.io/)| 📅 Data: 19/06/2025
-
-- 
 <!--
 **fanchenlex/fanchenlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
