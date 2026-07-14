@@ -3,10 +3,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fanchenlex&theme=github-compact&color=E76F51&line=9C89B8&point=EF476F&bg_color=151515" />
 </a>
 
-<img src="https://github-profile-trophy.vercel.app/?username=fanchenlex&theme=darkhub&title=Followers,Repositories,Issues,PullRequest,Stars,Commit&margin-w=10&margin-h=15" />
-
-
-
 📕Latest Blog Posts:
 - 😃[Had a special New Year in Hokkien.](https://fanchenlex.github.io/)| 📅 Data: 15/02/2026
 - 😃[Receving postgraduate addmission letter](https://fanchenlex.github.io/)| 📅 Data: 02/07/2025
